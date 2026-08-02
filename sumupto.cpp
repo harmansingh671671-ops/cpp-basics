@@ -20,3 +20,16 @@ cout << "Please enter a +ve Number\n";
     } 
 return 0;
 }
+
+/*
+for if statements follow this:
+if (conditon){
+what to do;}
+else{what to do;}
+
+LOOPING:
+for 'for' statement follow this
+for (what to see, how to see, how it change) or we can say it as
+for (initialisation, condition, update){
+what to do}
+*/
