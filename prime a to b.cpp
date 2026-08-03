@@ -2,8 +2,12 @@
 using namespace std;
 int main(){
 int a,b;
+int q,r;
 cout << "Enter 2 Numbers with a space: ";
-cin>>a>>b;
+cin>>q>>r;
+a=min(q,r);
+b=max(q,r);
+
 int n;
 for(n=a+1;n<b;n++){
     int i=2;
